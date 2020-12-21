@@ -1,4 +1,4 @@
-# Sentiment-Analysis
+# Grubhub Sentiment-Analysis
 Create a dataset from Google Play Reviews to perform Sentiment Analysis.
 
 1. Get real-world user reviews by scraping Google Play
